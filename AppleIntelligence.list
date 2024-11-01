@@ -1,0 +1,14 @@
+# NAME: AppleIntelligence
+# AUTHOR: Aintor
+# UPDATED: 2024-11-01
+HOST,swscan.apple.com,AppleIntelligence
+HOST,radio.itunes.apple.com,AppleIntelligence
+HOST,apple-relay.apple.com,AppleIntelligence
+HOST,probe.icloud.com,AppleIntelligence
+HOST,gateway.icloud.com,AppleIntelligence
+HOST,gdmf.apple.com,AppleIntelligence
+HOST,mask-api.icloud.com,AppleIntelligence
+HOST,xp.apple.com,AppleIntelligence
+HOST,swdist.apple.com,AppleIntelligence
+HOST,ocsp2.apple.com,AppleIntelligence
+HOST,fpinit.itunes.apple.com,AppleIntelligence
